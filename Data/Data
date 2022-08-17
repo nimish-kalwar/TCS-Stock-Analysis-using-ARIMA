@@ -1,0 +1,1 @@
+We are using yfinance library to get real time data of Tata Consultancy Services (TCS) stock values from "2021-05-01" to "2022-07-30" of each business day.
